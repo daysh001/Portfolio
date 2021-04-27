@@ -1,0 +1,13 @@
+
+
+#bg-image {
+    min-height:100%;
+    min-width:100%;
+    position:fixed;
+    top:0; 
+    left:0;
+    filter: brightness(10%);
+    z-index: -1;
+}
+
+
